@@ -1,5 +1,5 @@
 # Bachelor Thesis
-This is the repository of my bachelor thesis. It contains the relevant code files that were used to extract the vowel durations (Praat) and to generate the results (RStudio).
+This is the repository of my bachelor thesis. It contains the relevant code files that were used to extract the vowel durations (Praat) and to generate the results (RStudio). It also contains the extracted vowel duration files per language.
 
 
 ## Folders
